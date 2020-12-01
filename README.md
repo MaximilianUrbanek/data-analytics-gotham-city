@@ -19,16 +19,14 @@ Vor dem Start des Notebooks werden folgende Packages benötigt: <br />
   - prettyprint
   - sklearn
 <br />
-<br />
 Eine Installation kann nach folgendem Schema für die einzelnen Module vorgenommen werden.
-
 ### `pip install pandas`
+
+## Open Notebook
 
 Das Jupyter Lab kann entweder über über den Anaconda Navigator oder <br />
 über das Terminal mit
-
 ### `jupyter lab`
-
 gestartet werden
 
 Adresse im Browser: [http://localhost:8888/lab](http://localhost:8888/lab)
