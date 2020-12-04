@@ -20,6 +20,7 @@ Vor dem Start des Notebooks werden folgende Packages benötigt: <br />
   - sklearn
 <br />
 Eine Installation kann nach folgendem Schema für die einzelnen Module vorgenommen werden.
+
 ### `pip install pandas`
 
 ## Open Notebook
